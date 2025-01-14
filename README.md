@@ -91,9 +91,9 @@ We encourage researchers and practitioners to build upon this work. The field of
 * Exploring alternative model compression strategies
 * Enhancing knowledge integration methods
 
-The code and models from this research are available at [repository link]. We welcome contributions, feedback, and collaborations from the community to advance the state of knowledge-grounded dialogue systems.
+We welcome contributions, feedback, and collaborations from the community to advance the state of knowledge-grounded dialogue systems.
 
 ## License
 Research conducted at KAIST. See LICENSE.txt for details.
 
-For questions or collaborations, please feel free to contact any of the team members listed in the acknowledgements.
+For questions or collaborations, please feel free to contact.
